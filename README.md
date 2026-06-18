@@ -111,31 +111,38 @@ Hello! I'm **Hitesh Chugh**, an AI/ML Engineer in training and Full Stack Develo
 
 ---
 
-## 🛠️ Active Subsystems // Featured Projects
+## 🛠️ Active Subsystems // Top Repositories
 
-### 💳 [Credit Scoring Prediction System](https://github.com/HiteshChugh-2006)
-> **Domain:** *Machine Learning / Fintech*
-- Engineered a robust predictive pipeline designed to evaluate financial creditworthiness and risk metrics.
-- Developed comprehensive feature engineering scripts, addressed severe class imbalance (SMOTE), and optimized ensemble classifiers (XGBoost/LightGBM).
-- **Core Technologies:** `Python`, `Scikit-Learn`, `Pandas`, `NumPy`, `XGBoost`, `Streamlit`
+<div align="center">
 
-### 🏙️ [CivicTrack: Smart Complaint Management System](https://github.com/HiteshChugh-2006)
-> **Domain:** *Full Stack Web Development / Civic Tech*
-- Designed and built a real-time complaint tracking portal enabling citizens to seamlessly log and monitor civic issues.
-- Implemented real-time dashboard updates, automatic status routing, and JWT-authenticated administrator analytics panel.
-- **Core Technologies:** `React.js`, `Tailwind CSS`, `Node.js`, `Express.js`, `MongoDB`, `Socket.io`
+<table align="center" border="0" width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/HiteshChugh-2006/Disease_Prediction_System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiteshChugh-2006&repo=Disease_Prediction_System&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=a9b1d6&bg_color=1a1b27" alt="Disease Prediction System" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/HiteshChugh-2006/Fake_News_Detection">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiteshChugh-2006&repo=Fake_News_Detection&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=a9b1d6&bg_color=1a1b27" alt="Fake News Detection" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/HiteshChugh-2006/Handwritten_Character_Recognition">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiteshChugh-2006&repo=Handwritten_Character_Recognition&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=a9b1d6&bg_color=1a1b27" alt="Handwritten Character Recognition" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/HiteshChugh-2006/Sales_Forecasting_System">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=HiteshChugh-2006&repo=Sales_Forecasting_System&theme=tokyonight&hide_border=true&title_color=00f0ff&icon_color=00f0ff&text_color=a9b1d6&bg_color=1a1b27" alt="Sales Forecasting System" />
+      </a>
+    </td>
+  </tr>
+</table>
 
-### 🧠 [AI / ML Research Repository](https://github.com/HiteshChugh-2006)
-> **Domain:** *Deep Learning / Computer Vision / NLP*
-- Created a repository compiling experimental neural network models, semantic classifiers, and OpenCV pipelines.
-- Implemented Convolutional Neural Networks (CNNs) for image categorization and recurrent architectures for text analytics.
-- **Core Technologies:** `TensorFlow`, `Keras`, `OpenCV`, `Python`, `NLTK`
-
-### 📊 [Data Analytics & Operations Dashboards](https://github.com/HiteshChugh-2006)
-> **Domain:** *Data Visualization / Business Intelligence*
-- Synthesized complex multi-dimensional datasets into high-fidelity dashboards and visual reports.
-- Automated ETL steps and presented insights on user behavior, product telemetry, and seasonal trends.
-- **Core Technologies:** `Python`, `SQL`, `Pandas`, `Matplotlib`, `Seaborn`, `PowerBI`
+</div>
 
 ---
 
